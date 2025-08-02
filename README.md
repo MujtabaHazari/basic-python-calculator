@@ -1,2 +1,22 @@
-# basic-python-calculator
-A simple command-line calculator built using Python's match-case and try-except blocks. This beginner-friendly project supports basic arithmetic operations: addition, subtraction, multiplication, and division. A great example of modern Python syntax in action. #python #calculator #beginners #matchcase #tryexcept #cli
+# Python Smart Calculator 🧮
+
+A simple command-line calculator built using Python.  
+This project uses `match-case` for operator handling and `try-except` to manage input errors.
+
+## 🔧 Features
+- Addition, Subtraction, Multiplication, Division
+- User-friendly prompts
+- Error handling for invalid input
+
+## 🛠️ Technologies Used
+- Python 3.x
+
+## 🚀 How to Run
+1. Clone the repo
+2. Run `python calculator.py`
+3. Follow the prompts
+
+---
+
+🔸 Created as a beginner Python project to practice `match-case` and error handling.
+
